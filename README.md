@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himalayhs02" alt="himalayhs02" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/himalayhs02" target="blank"><img src="https://img.shields.io/twitter/follow/himalayhs02?logo=twitter&style=for-the-badge" alt="himalayhs02" /></a> </p>
+
 
 - 📫 How to reach(contact) me :  **myshimalay01@gmail.com**
 
